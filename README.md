@@ -19,9 +19,9 @@
 ---
 
 ### 👩‍💻 What I’m up to
-- 🔭 Currently working on: **fine-tuning LLMs**
-- 🌱 Deep diving into: **AI agents and retrieval evaluation**
-- 👯 Open to collaborate on: **GenAI RAG evaluation**
+- 🔭 Currently working on **fine-tuning LLMs**
+- 🌱 Deep diving into **AI agents and retrieval evaluation**
+- 👯 Open to collaborate on **GenAI RAG evaluation**
 
 ### 📬 How to reach me
 - ar4636@columbia.edu
@@ -31,25 +31,25 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and tools
 <p align="center">
-  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="PyTorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-  <img alt="TensorFlow" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-  <img alt="scikit-learn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img alt="Pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img alt="NumPy" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <img alt="OpenCV" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-  <img alt="AWS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <img alt="GCP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Python" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="PyTorch" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img alt="TensorFlow" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+  <img alt="scikit-learn" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img alt="Pandas" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img alt="NumPy" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img alt="OpenCV" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+  <img alt="AWS" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img alt="GCP" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+  <img alt="Docker" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="PostgreSQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MySQL" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
 
-<!-- Optional: GitHub cards (uncomment after you create some public repos)
+<!-- Optional: enable after you add public repos
 <p align="center">
   <img alt="Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=AnusreeRakhi&show_icons=true&rank_icon=github&theme=transparent" />
   <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnusreeRakhi&layout=compact&theme=transparent" />
