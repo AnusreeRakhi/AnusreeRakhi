@@ -1,21 +1,52 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand">, I'm Anusree</h1>
 <p align="center"><b>Data Scientist · NLP · LLMs · AI/ML · Computer Vision</b></p>
 
+<!-- Contact bar -->
 <p align="center">
-  <a href="mailto:ar4636@columbia.edu">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ar4636%40columbia.edu-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444">
-  </a>
-  <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anusree%20Mondal%20Rakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444444">
-  </a>
-  <a href="https://anusree-mondal-rakhi-ujp5y0h.gamma.site/" target="_blank" rel="noopener">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=444444">
-  </a>
-  <a href="https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view" target="_blank" rel="noopener">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-34A853?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=444444">
-  </a>
-</p>
+  <table>
+    <tr>
+      <!-- EMAIL -->
+      <td align="center">
+        <a href="mailto:ar4636@columbia.edu">
+          <img src="https://img.shields.io/badge/EMAIL-_-3f3f46?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3f3f46&logoWidth=20" alt="Email label">
+        </a><br/>
+        <a href="mailto:ar4636@columbia.edu">
+          <img src="https://img.shields.io/badge/AR4636%40COLUMBIA.EDU-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111&logoWidth=20" alt="Email address">
+        </a>
+      </td>
 
+      <!-- LINKEDIN -->
+      <td align="center">
+        <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/LINKEDIN-_-3f3f46?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3f3f46&logoWidth=20" alt="LinkedIn label">
+        </a><br/>
+        <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=20" alt="LinkedIn connect">
+        </a>
+      </td>
+
+      <!-- PORTFOLIO -->
+      <td align="center">
+        <a href="https://anusree-mondal-rakhi-ujp5y0h.gamma.site/" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/PORTFOLIO-_-3f3f46?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=3f3f46&logoWidth=20" alt="Portfolio label">
+        </a><br/>
+        <a href="https://anusree-mondal-rakhi-ujp5y0h.gamma.site/" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/VIEW-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=7C3AED&logoWidth=20" alt="Portfolio view">
+        </a>
+      </td>
+
+      <!-- RESUME -->
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/RESUME-_-3f3f46?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=3f3f46&logoWidth=20" alt="Resume label">
+        </a><br/>
+        <a href="https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view" target="_blank" rel="noopener">
+          <img src="https://img.shields.io/badge/DOWNLOAD-34A853?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=34A853&logoWidth=20" alt="Resume download">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
