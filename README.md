@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anusree</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand">, I'm Anusree</h1>
 <p align="center"><b>Data Scientist · NLP · LLMs · AI/ML · Computer Vision</b></p>
 
 <p align="center">
