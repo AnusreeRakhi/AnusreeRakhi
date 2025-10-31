@@ -1,24 +1,57 @@
 <h1 align="center">Hi 👋, I'm Anusree</h1>
-<h3 align="center">Data Scientist | NLP | LLMs | AI/ML | Computer Vision</h3>
+<p align="center"><b>Data Scientist · NLP · LLMs · AI/ML · Computer Vision</b></p>
 
-- 🔭 I’m currently working on **fine-tuning LLMs**
-
-- 🌱 I’m currently diving deep into **AI agents and retrieval evaluation**
-
-- 👯 I’m looking to collaborate on **GenAI RAG evaluation**
-
-- 👨‍💻 All of my projects are available at [https://anusree-mondal-rakhi-ujp5y0h.gamma.site/](https://anusree-mondal-rakhi-ujp5y0h.gamma.site/)
-
-- 📫 How to reach me **ar4636@columbia.edu**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view](https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view)
-
-- ⚡ Fun fact **🍁 + sweaters + long walks = my perfect fall**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anusreemondalrakhi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anusreemondalrakhi/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:ar4636@columbia.edu">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ar4636%40columbia.edu-181717?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anusree%20Mondal%20Rakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://anusree-mondal-rakhi-ujp5y0h.gamma.site/" target="_blank" rel="noopener noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-8A2BE2?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view" target="_blank" rel="noopener noreferrer">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 👩‍💻 What I’m up to
+- 🔭 Currently working on: **fine-tuning LLMs**
+- 🌱 Deep diving into: **AI agents and retrieval evaluation**
+- 👯 Open to collaborate on: **GenAI RAG evaluation**
+
+### 📬 How to reach me
+- ar4636@columbia.edu
+
+### ⚡ Fun fact
+- 🍁 + sweaters + long walks = my perfect fall
+
+---
+
+### 🧰 Languages and Tools
+<p align="center">
+  <img alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="PyTorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+  <img alt="TensorFlow" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+  <img alt="scikit-learn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img alt="Pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img alt="NumPy" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img alt="OpenCV" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+  <img alt="AWS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+  <img alt="GCP" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
+  <img alt="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</p>
+
+<!-- Optional: GitHub cards (uncomment after you create some public repos)
+<p align="center">
+  <img alt="Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=AnusreeRakhi&show_icons=true&rank_icon=github&theme=transparent" />
+  <img alt="Top Langs" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnusreeRakhi&layout=compact&theme=transparent" />
+</p>
+-->
