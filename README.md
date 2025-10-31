@@ -3,18 +3,19 @@
 
 <p align="center">
   <a href="mailto:ar4636@columbia.edu">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ar4636%40columbia.edu-181717?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ar4636%40columbia.edu-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444">
   </a>
-  <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anusree%20Mondal%20Rakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anusree%20Mondal%20Rakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444444">
   </a>
-  <a href="https://anusree-mondal-rakhi-ujp5y0h.gamma.site/" target="_blank" rel="noopener noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-8A2BE2?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+  <a href="https://anusree-mondal-rakhi-ujp5y0h.gamma.site/" target="_blank" rel="noopener">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=444444">
   </a>
-  <a href="https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view" target="_blank" rel="noopener noreferrer">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
+  <a href="https://drive.google.com/file/d/1y6v1hdQdRdUPxXendiPGFNQ11JZ8WeC7/view" target="_blank" rel="noopener">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download-34A853?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=444444">
   </a>
 </p>
+
 
 ---
 
