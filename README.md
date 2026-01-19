@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand">, I'm Anusree
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand">, I'm Anusree Mondal Rakhi
 </h1>
 <p align="center"><b>ML | LLMs | RAG | AI Agents | CV</b></p>
 
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener"><img
     alt="LinkedIn"
     src="https://img.shields.io/badge/LinkedIn-Anusree%20Mondal%20Rakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3f3f46"></a>&ensp;
-  <a href="https://github.com/AnusreeRakhi" target="_blank" rel="noopener"><img
+  <a href="https://anusreerakhi.github.io/" target="_blank" rel="noopener"><img
     alt="Portfolio"
     src="https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=3f3f46"></a>&ensp;
   <a href="https://drive.google.com/file/d/14In2WhaTOWDexl-vzcK1eYMnhFm3lpbZ/view?usp=sharing" target="_blank" rel="noopener"><img
@@ -28,7 +28,7 @@
 ### 👩‍💻 What I’m up to
 - 🔭 Currently working on **fine-tuning LLMs**
 - 🌱 Deep diving into **AI agents and retrieval evaluation**
-- 👯 Open to collaborate on **GenAI based projects**
+- 👯 Open to collaborate on **GenAI RAG evaluation**
 
 ### 📬 How to reach me
 - <a href="mailto:ar4636@columbia.edu">ar4636@columbia.edu</a>
