@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand">, I'm Anusree Mondal Rakhi
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="28" alt="waving hand">, I'm Anusree
 </h1>
 <p align="center"><b>ML | LLMs | RAG | AI Agents | CV</b></p>
 
@@ -28,7 +28,7 @@
 ### 👩‍💻 What I’m up to
 - 🔭 Currently working on **fine-tuning LLMs**
 - 🌱 Deep diving into **AI agents and retrieval evaluation**
-- 👯 Open to collaborate on **GenAI RAG evaluation**
+- 👯 Open to collaborate on **GenAI based projects**
 
 ### 📬 How to reach me
 - <a href="mailto:ar4636@columbia.edu">ar4636@columbia.edu</a>
