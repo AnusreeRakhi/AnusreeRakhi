@@ -12,9 +12,6 @@
 
 <!-- CONTACT BAR (with subtle white gaps) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/anusreemondalrakhi/" target="_blank" rel="noopener"><img
-    alt="LinkedIn"
-    src="https://img.shields.io/badge/LinkedIn-Anusree%20Mondal%20Rakhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3f3f46"></a>&ensp;
   <a href="https://anusreerakhi.github.io/" target="_blank" rel="noopener"><img
     alt="Portfolio"
     src="https://img.shields.io/badge/Portfolio-View-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=3f3f46"></a>&ensp;
